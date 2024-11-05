@@ -10,7 +10,7 @@
 
 ---
 
-### Summary of Certification Milestones by Standard
+### Certification Milestones by Standard
 
 1. **ISO/IEC 27001**:
 
@@ -25,9 +25,3 @@
 3. **MDR (Class 2 or 3)**:
    - **Phases**: 1, 2, 3, 4, and 5.
    - **Milestones**: Data encryption and GDPR compliance (Phase 1), model validation and event reporting (Phase 2), patient data storage and notification compliance (Phase 3), certification documentation (Phase 4), and ongoing compliance monitoring (Phase 5).
-
----
-
-**Total Duration**: **60 weeks** (14 months)
-
-This simplified 5-phase structure consolidates related tasks into broader categories, keeping the project on track while covering all necessary compliance, development, and certification requirements for **ISO/IEC 27001**, **ISO 13485**, and **MDR** standards.
